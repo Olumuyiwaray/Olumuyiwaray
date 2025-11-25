@@ -26,7 +26,7 @@ Helping organizations and individuals build products that scale.
 
 ---
 
-### My Stack
+### My Toolbox
 
 [![Mac OS](https://img.shields.io/badge/MAC%20OS-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)]()
@@ -44,7 +44,7 @@ Helping organizations and individuals build products that scale.
 
 | 📦 Projects                                                                                                 | Language                                                                                                          | ⭐ Stars                                                                   | 🔀 Forks                                                                  |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Go-validator](https://github.com/Olumuyiwaray/go-validator) ⸻ A lightweight Go chainable validator library | ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)                 | ![Stars](https://img.shields.io/badge/stars-16-0A66C2?style=for-the-badge) | ![Forks](https://img.shields.io/badge/forks-0-0A66C2?style=for-the-badge) |
+| [Go-validator](https://github.com/Olumuyiwaray/go-validator) ⸻ A lightweight chainable Go validator library | ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)                 | ![Stars](https://img.shields.io/badge/stars-16-0A66C2?style=for-the-badge) | ![Forks](https://img.shields.io/badge/forks-0-0A66C2?style=for-the-badge) |
 | [PDF Paradise](#)                                                                                           | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Stars](https://img.shields.io/badge/stars-0-0A66C2?style=for-the-badge)  | ![Forks](https://img.shields.io/badge/forks-0-0A66C2?style=for-the-badge) |
 | [Auth Service](#)                                                                                           | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Stars](https://img.shields.io/badge/stars-0-0A66C2?style=for-the-badge)  | ![Forks](https://img.shields.io/badge/forks-0-0A66C2?style=for-the-badge) |
 
